@@ -4,7 +4,7 @@
 
 🎓 I am Gaber Tarek , a **Software Engineer** (specializing in **Flutter And WordPress**) . I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in 2024.
 
-👨‍💻 I am really enthusiastic about learning new technology. In 2021, I learned **Flutter**, **Frontend**, **UI/UX**, **WprdPress** and **Data Base SQL**.
+👨‍💻 I am really enthusiastic about learning new technology. In 2021, I learned **Flutter**, **Frontend**, **UI/UX**, **WordPress** and **Data Base SQL**.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from  sports  **Gym**, **MMA Mixed Martial (MMA)**and**Running**
 
