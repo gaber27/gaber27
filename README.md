@@ -6,7 +6,7 @@
 
 👨‍💻 I am really enthusiastic about learning new technology. In 2021, I learned **Flutter**, **Frontend**, **UI/UX**, **WordPress** and **Data Base SQL**.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from  sports  **Gym**, **MMA Mixed Martial (MMA)**and**Running**
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from  sports  **Gym**, **Mixed Martial (MMA)**and **Running**
 
 
 ## 🛠️ Skills
